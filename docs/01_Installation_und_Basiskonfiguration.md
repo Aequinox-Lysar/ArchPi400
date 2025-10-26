@@ -14,7 +14,7 @@
 ## Installation
 
 Das Grundsystem basiert auf dem offiziellem **Arch Linux ARM Image** für den Raspberry Pi 4.
-- ([archlinuxarm.org](https://archlinuxarm.org))
+- [archlinuxarm.org](https://archlinuxarm.org)
 
 Die Installation erfolgte manuell, indem die Micro-SD-Karte vorebereitet und anschließend das Image entpackt und kopiert wurde.
 
