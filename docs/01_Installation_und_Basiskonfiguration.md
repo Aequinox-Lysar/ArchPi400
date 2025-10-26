@@ -90,6 +90,7 @@ wireless-regdb
 wireless-tools
 wpa-supplicant
 yay
+ntp
 ```
 ---
 
