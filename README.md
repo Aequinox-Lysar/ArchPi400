@@ -43,3 +43,8 @@ Jede Komponente ist handkonfiguriert – kein Desktop, keine grafischen Helferle
 | **Netzwerk** | netctl – automatischer WLAN-Reconnect |
 
 ---
+## 🧑‍🔬 Über das Projekt
+
+Dieses Labor ist kein fertiges System, sondern ein Prozess.
+Jeder Fehler, jede Anpassung und jede Verbesserung sind Teil des Lernens.
+Das Ziel ist, Technik durch Tun zu begreifen – neugierig, strukturiert und mit einer Prise Chaos.
