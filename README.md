@@ -14,6 +14,8 @@
 Willkommen in meinem persönlichen **Lern- und Forschungs­labor** auf Basis von **Arch Linux ARM** für den **Raspberry Pi 400**.  
 Dieses Projekt ist eine Mischung aus Lernumgebung, Forschungsstation und digitalem Werkplatz — alles vollständig **in der TTY** ohne grafische Oberfläche.
 
+> *„Ich trete hier den Beweis an, das echtes IT-Know-How keine Frage des Geldbeutels, sondern eine der eigenen Motivation ist.“* — Aequinox Lysar 
+
 ---
 
 ## 🧩 Ziel des Projekts
