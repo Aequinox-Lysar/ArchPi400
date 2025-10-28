@@ -1,0 +1,25 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto --human-readable'
+alias ll='ls -l --color=auto --human-readable'
+alias la='ls -la --color=auto --human-readable'
+alias grep='grep --color=auto'
+PS1='\[\e[38;5;48m\]\u\[\e[0m\]@\[\e[38;5;13m\]\h\[\e[0m\]:\[\e[38;5;10m\]\w\[\e[0m\]\n\[\e[38;5;45m\]>>>\[\e[0m\] '
+PROMPT_COMMAND='echo -ne "\033[1G"'
+
+######### My Own Cofigurations ##############
+
+## Fastfetch after login
+fastfetch
+
+## Configs for most
+export GROFF_NO_SGR=0
+export MANROFFOPT='-P -c'
+export PAGER=most
+export MANPAGER=most
+export MANWIDTH=200
