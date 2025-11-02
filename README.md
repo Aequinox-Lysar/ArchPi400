@@ -38,7 +38,7 @@ Jede Komponente ist handkonfiguriert – kein Desktop, keine grafischen Helferle
 | Komponente | Beschreibung |
 |-------------|--------------|
 | **Systembasis** | Arch Linux ARM (aarch64) |
-| **Hardware** | Raspberry Pi 400 |
+| **Hardware** | Raspberry Pi 400 Rev. 1.1 |
 | **Shell** | Bash 5.3 |
 | **Editor** | Neovim mit LazyVim (Lua basiert) |
 | **Multiplexer** | tmux – für persistente Multi-Window-TTY-Workflows |
